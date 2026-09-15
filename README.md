@@ -2,7 +2,7 @@
 
 **SOC Analyst | Cybersecurity**
 
-Cybersecurity professional focused on **SOC Operations, SIEM monitoring, threat detection, incident response, phishing analysis, and digital forensics**.
+Cybersecurity professional with hands-on experience in SOC operations, SIEM monitoring, threat detection, incident response, phishing analysis, and digital forensics.
 
 I build hands-on projects and labs to investigate security alerts, analyze logs, identify threats, and document findings.
 
@@ -51,20 +51,17 @@ I build hands-on projects and labs to investigate security alerts, analyze logs,
 
 ## 💻 Projects
 
-**🛡️ SOC Investigations**
-Security alert, authentication, log, and incident investigations.
+- 🛡️ [SOC Investigations](https://github.com/saiprasanna-SOC/soc-investigations)  
+  Security alert, authentication, log, and incident investigations.
 
-**📧 Phishing Analysis**
-Email, header, URL, attachment, and IOC analysis.
+- 📧 [Phishing Analysis](https://github.com/saiprasanna-SOC/phishing-analysis)  
+  Email, header, URL, attachment, and IOC analysis.
 
-**🔍 KQL SOC Queries**
-Queries for authentication monitoring and threat detection.
+- 🔍 [KQL SOC Queries](https://github.com/saiprasanna-SOC/kql-soc-queries)  
+  Queries for authentication monitoring and threat detection.
 
-**🔬 Digital & Memory Forensics**
-Forensic investigations and CTF-based analysis.
-
-**🤖 Cybersecurity Job Agent**
-Python tool for cybersecurity job searching and resume matching.
+- 🔬 [Digital & Memory Forensics](https://github.com/saiprasanna-SOC/digital-forensics)  
+  Forensic investigations and CTF-based analysis.
 
 ---
 
