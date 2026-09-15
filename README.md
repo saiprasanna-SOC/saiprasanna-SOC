@@ -68,12 +68,6 @@ Python tool for cybersecurity job searching and resume matching.
 
 ---
 
-## 📚 Currently Learning
-
-**SOC Operations | SIEM | KQL | Incident Response | Threat Detection | Digital Forensics | Malware Analysis | Security+**
-
----
-
 ## 📫 Connect
 
 **LinkedIn:** https://www.linkedin.com/in/saiprasanna-munnangi/
